@@ -1,3 +1,3 @@
 # Forward_Kinematics_hardcoding
 ## Humanoid Leg
-You should install matplotlib and mpl_toolkits
+For Visualization, you should install matplotlib and mpl_toolkits
